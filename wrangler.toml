@@ -1,0 +1,8 @@
+name = "gkorchids"
+main = "src/worker.js"
+compatibility_date = "2023-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "gkorchids-db"
+database_id = "your-database-id"
